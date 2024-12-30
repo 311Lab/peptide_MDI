@@ -14,6 +14,11 @@
 ---
 
 ## Workflow
+### Overview
+Below is an overview of the workflow:
+
+![Workflow Diagram](images/workflow.png)
+
 ### Step 1: Configure the Environment
 Before running the workflow, ensure you have **Anaconda** installed on your system.
 
