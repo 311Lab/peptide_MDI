@@ -55,7 +55,20 @@ Ensure the following files are placed in the `in_put` folder before running the 
 ### Step 4: Run the Workflow
 Execute the workflow using Nextflow by running the following command:
 ```bash
-nextflow run main.nf -with-conda 
+nextflow run main.nf -with-conda
+```
 
+## Contact
+For any questions or issues, please contact:
+- **Email**: tianfeiyu0721@163.com
 
-   
+---
+
+## Citation
+If you use this workflow in your research, please cite the following paper:
+
+**Yu, D., Li, H., Liu, Y., Yang, X., Yang, W., Fu, Y., Zuo, Y.-a., & Huang, X. (2024).**  
+*Application of the molecular dynamics simulation GROMACS in food science.*  
+FOOD RESEARCH INTERNATIONAL, 190, 114653.  
+[https://doi.org/10.1016/j.foodres.2024.114653](https://doi.org/10.1016/j.foodres.2024.114653)
+
