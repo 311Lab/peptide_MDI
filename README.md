@@ -50,12 +50,26 @@ Ensure the following files are placed in the `in_put` folder before running the 
   `Docking_config.txt`  
   Provides information about the active pocket of the receptor.
 
+
 ---
 
 ### Step 4: Run the Workflow
 Execute the workflow using Nextflow by running the following command:
 ```bash
 nextflow run main.nf -with-conda
+```
+
+### Configuration
+If you need to modify the type of simulated enzyme or the peptide release settings, please edit the `config.yaml` file:
+
+- **`protease`**: Set the type of protease used for simulation.  
+- **`min_len`** and **`max_len`**: Adjust the minimum and maximum length of the released peptide fragments.
+
+Example configuration in `config.yaml`:
+```yaml
+protease: trypsin
+min_len: 2
+max_len: 10
 ```
 
 ## Contact
