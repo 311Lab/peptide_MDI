@@ -20,3 +20,20 @@ Before running the workflow, ensure you have **Anaconda** installed on your syst
 1. Create a new Conda environment:
    ```bash
    conda create -n peptide_MDI
+
+2. Activate the environment：
+   ```bash
+   conda activate peptide_MDI
+   
+3. Install Nextflow：
+   ```bash
+   conda install -c bioconda nextflow
+
+### Step 2: Navigate to the Working Directory
+Switch to the directory containing the workflow scripts and resources:
+```bash
+   cd /path/to/peptide_MDI
+
+### Step 3: Upload the required files into the in_put folder:
+
+   
