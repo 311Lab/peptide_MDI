@@ -86,3 +86,45 @@ If you use this workflow in your research, please cite the following paper:
 FOOD RESEARCH INTERNATIONAL, 190, 114653.  
 [https://doi.org/10.1016/j.foodres.2024.114653](https://doi.org/10.1016/j.foodres.2024.114653)
 
+---
+
+## References
+The following references were utilized in the development and implementation of this workflow:
+
+1. Adasme, M. F., Linnemann, K. L., Bolz, S. N., Kaiser, F., Salentin, S., Haupt, V. J., & Schroeder, M. (2021).  
+   *PLIP 2021: Expanding the scope of the protein–ligand interaction profiler to DNA and RNA.*  
+   Nucleic Acids Research, 49(W1), W530-W534.  
+   [https://doi.org/10.1093/nar/gkab294](https://doi.org/10.1093/nar/gkab294)
+
+2. Di Tommaso, P., Chatzou, M., Floden, E. W., Barja, P. P., Palumbo, E., & Notredame, C. (2017).  
+   *Nextflow enables reproducible computational workflows.*  
+   Nature Biotechnology, 35(4), 316-319.  
+   [https://doi.org/10.1038/nbt.3820](https://doi.org/10.1038/nbt.3820)
+
+3. Eberhardt, J., Santos-Martins, D., Tillack, A. F., & Forli, S. (2021).  
+   *AutoDock Vina 1.2.0: New Docking Methods, Expanded Force Field, and Python Bindings.*  
+   Journal of Chemical Information and Modeling, 61(8), 3891-3898.  
+   [https://doi.org/10.1021/acs.jcim.1c00203](https://doi.org/10.1021/acs.jcim.1c00203)
+
+4. Guntuboina, C., Das, A., Mollaei, P., Kim, S., & Barati Farimani, A. (2023).  
+   *PeptideBERT: A Language Model Based on Transformers for Peptide Property Prediction.*  
+   The Journal of Physical Chemistry Letters, 14(46), 10427-10434.  
+   [https://doi.org/10.1021/acs.jpclett.3c02398](https://doi.org/10.1021/acs.jpclett.3c02398)
+
+5. Jo, S., Kim, T., Iyer, V. G., & Im, W. (2008).  
+   *CHARMM-GUI: A web-based graphical user interface for CHARMM.*  
+   Journal of Computational Chemistry, 29(11), 1859-1865.  
+   [https://doi.org/10.1002/jcc.20945](https://doi.org/10.1002/jcc.20945)
+
+6. Tien, M. Z., Sydykova, D. K., Meyer, A. G., & Wilke, C. O. (2013).  
+   *PeptideBuilder: A simple Python library to generate model peptides.*  
+   PeerJ, 1, e80.  
+   [https://doi.org/10.7717/peerj.80](https://doi.org/10.7717/peerj.80)
+
+7. Yang, J., Gao, Z., Ren, X., Sheng, J., Xu, P., Chang, C., & Fu, Y. (2021).  
+   *DeepDigest: Prediction of Protein Proteolytic Digestion with Deep Learning.*  
+   Analytical Chemistry, 93(15), 6094-6103.  
+   [https://doi.org/10.1021/acs.analchem.0c04704](https://doi.org/10.1021/acs.analchem.0c04704)
+
+
+
