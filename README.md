@@ -17,7 +17,7 @@
 ### Overview
 Below is an overview of the workflow:
 
-![Workflow Diagram](images/workflow.png)
+![Workflow Diagram](images/peptide_MDI.png)
 
 ### Step 1: Configure the Environment
 Before running the workflow, ensure you have **Anaconda** installed on your system.
