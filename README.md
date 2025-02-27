@@ -34,6 +34,10 @@ Before running the workflow, ensure you have **Anaconda** installed on your syst
    ```bash
    conda install -c bioconda nextflow
 
+4. Install autogrid4
+     ```bash
+  sudo apt-get install autogrid
+  
 ### Step 2: Navigate to the Working Directory
 Switch to the directory containing the workflow scripts and resources:
 ```bash
