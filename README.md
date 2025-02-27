@@ -56,7 +56,7 @@ Ensure the following files are placed in the `in_put` folder before running the 
   The 3D structure of the receptor used for docking studies.
 
 - **Docking configuration file**:  
-  `Docking_config.txt`  
+  `Docking_config.gpf`  
   Provides information about the active pocket of the receptor.
 
 
