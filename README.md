@@ -86,11 +86,6 @@ For any questions or issues, please contact:
 ## Citation
 If you use this workflow in your research, please cite the following paper:
 
-**Yu, D., Li, H., Liu, Y., Yang, X., Yang, W., Fu, Y., Zuo, Y.-a., & Huang, X. (2024).**  
-*Application of the molecular dynamics simulation GROMACS in food science.*  
-FOOD RESEARCH INTERNATIONAL, 190, 114653.  
-[https://doi.org/10.1016/j.foodres.2024.114653](https://doi.org/10.1016/j.foodres.2024.114653)
-
 ---
 
 ## References
