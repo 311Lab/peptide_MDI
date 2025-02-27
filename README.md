@@ -105,27 +105,23 @@ The following references were utilized in the development and implementation of 
    Nature Biotechnology, 35(4), 316-319.  
    [https://doi.org/10.1038/nbt.3820](https://doi.org/10.1038/nbt.3820)
 
-3. Eberhardt, J., Santos-Martins, D., Tillack, A. F., & Forli, S. (2021).  
-   *AutoDock Vina 1.2.0: New Docking Methods, Expanded Force Field, and Python Bindings.*  
-   Journal of Chemical Information and Modeling, 61(8), 3891-3898.  
+3. Diogo Santos-Martins, Leonardo Solis-Vasquez, Andreas F Tillack, Michel F Sanner, Andreas Koch, and Stefano Forli. (2021).  
+   *Accelerating AutoDock4 with GPUs and Gradient-Based Local Search*  
+   Journal of Chemical Theory and Computation, 17(2), 1060-1073.  
    [https://doi.org/10.1021/acs.jcim.1c00203](https://doi.org/10.1021/acs.jcim.1c00203)
 
 4. Guntuboina, C., Das, A., Mollaei, P., Kim, S., & Barati Farimani, A. (2023).  
    *PeptideBERT: A Language Model Based on Transformers for Peptide Property Prediction.*  
    The Journal of Physical Chemistry Letters, 14(46), 10427-10434.  
-   [https://doi.org/10.1021/acs.jpclett.3c02398](https://doi.org/10.1021/acs.jpclett.3c02398)
+   [https://doi.org/10.1021/acs.jctc.0c01006](https://doi.org/10.1021/acs.jctc.0c01006)
 
-5. Jo, S., Kim, T., Iyer, V. G., & Im, W. (2008).  
-   *CHARMM-GUI: A web-based graphical user interface for CHARMM.*  
-   Journal of Computational Chemistry, 29(11), 1859-1865.  
-   [https://doi.org/10.1002/jcc.20945](https://doi.org/10.1002/jcc.20945)
 
-6. Tien, M. Z., Sydykova, D. K., Meyer, A. G., & Wilke, C. O. (2013).  
+5. Tien, M. Z., Sydykova, D. K., Meyer, A. G., & Wilke, C. O. (2013).  
    *PeptideBuilder: A simple Python library to generate model peptides.*  
    PeerJ, 1, e80.  
    [https://doi.org/10.7717/peerj.80](https://doi.org/10.7717/peerj.80)
 
-7. Yang, J., Gao, Z., Ren, X., Sheng, J., Xu, P., Chang, C., & Fu, Y. (2021).  
+6. Yang, J., Gao, Z., Ren, X., Sheng, J., Xu, P., Chang, C., & Fu, Y. (2021).  
    *DeepDigest: Prediction of Protein Proteolytic Digestion with Deep Learning.*  
    Analytical Chemistry, 93(15), 6094-6103.  
    [https://doi.org/10.1021/acs.analchem.0c04704](https://doi.org/10.1021/acs.analchem.0c04704)
