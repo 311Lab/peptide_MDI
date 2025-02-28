@@ -1,0 +1,36 @@
+#====================
+# 1. 输出与受体设置
+#====================
+gridfld config.fld           # 指定生成的.fld文件名
+receptor protein.pdbqt       # 受体pdbqt文件
+
+#====================
+# 2. 网格中心与大小
+#====================
+npts 107 107 81               # 网格点数（x,y,z方向）
+spacing 0.375                # 网格间距
+gridcenter 215 235 280       # 网格中心坐标（center_x, center_y, center_z）
+
+#====================
+# 3. 原子类型和网格映射
+#====================
+ligand_types A C HD N OA SA NA  # 要计算势能的原子类型（需与受体中出现的类型对应）
+map protein.A.map             # 芳香环碳（A型）网格势能图
+map protein.C.map             # 脂肪碳（C型）网格势能图
+map protein.HD.map            # 极性氢（HD）网格势能图
+map protein.N.map             # 氮（N）网格势能图
+map protein.OA.map            # 受氢键的氧（OA）网格势能图
+map protein.SA.map            # 硫（SA）网格势能图
+map protein.NA.map
+#====================
+# 4. 其他常见选项
+#====================
+elecmap protein.e.map         # 电势图（静电势）
+dsolvmap protein.d.map        # 溶剂势图
+intelec                      # 计算静电势
+dielectric -0.1465           # 用于修正介电常数的经验参数
+outlev 0                     # 输出信息等级（0=最简洁，1=详细）
+
+#====================
+# 5. 结束
+#====================
