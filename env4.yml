@@ -1,0 +1,11 @@
+name: Peptide_MDI_4
+channels:
+  - conda-forge
+  - defaults
+  - bioconda
+  - https://conda.rosettacommons.org
+  - hcc
+dependencies:
+  - autodock-gpu
+  - python=3.10
+  - pyyaml

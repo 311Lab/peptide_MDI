@@ -1,0 +1,10 @@
+name: Peptide_MDI_3
+channels:
+  - conda-forge
+  - defaults
+  - bioconda
+  - https://conda.rosettacommons.org
+dependencies:
+  - pyyaml
+  - r-base
+  - r-plotly
